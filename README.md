@@ -21,5 +21,5 @@ All the texts are located in the [/corpus](/corpus) folder.
 If you wish to feel more like a programmer (and maybe add some more text preprocessing), here is what you should do:
 
 * Install [Python 3](https://www.python.org/downloads/release/python-370/) if you don't have Python;
-* run `pip install -r requirements.txt`;
+* install [Scrapy](http://doc.scrapy.org/en/latest/intro/install.html);
 * run `cd crawler && scrapy crawl articles`.
