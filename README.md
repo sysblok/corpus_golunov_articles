@@ -18,7 +18,7 @@ Here is a collection of articles he has written for Meduza.
 
 All the texts are located in the [/corpus](/corpus) folder.
 
-If you'd like to download them one more time (and maybe add some more preprocessing), here is what you should do:
+If you wish to feel more like a programmer (and maybe add some more text preprocessing), here is what you should do:
 
 * Install [Python 3](https://www.python.org/downloads/release/python-370/) if you don't have Python;
 * run `pip install -r requirements.txt`;
